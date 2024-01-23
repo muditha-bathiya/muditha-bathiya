@@ -3,7 +3,39 @@
 <h1 align="center">Hi there 👋 Here I'm Bathiya</h1>
 
 <h3 align="left" margin="40"> 👇 let's Check Down Bleow 👇</h3>
-<p align="left"><p></p>
+<p align="left">
+<h4>👋 HELLO..... "I am Bathiya, a dedicated web developer with a fervor for creating immersive and visually stunning websites. My commitment is unwavering, as I strive to deliver excellence in every project. By blending technical expertise with a keen eye for design, I aim to provide seamless and captivating online experiences that leave a lasting impression on users and clients alike."</h4>
+
+🚀 **Skills:**
+- Web Devolopment
+- Graphic Design (Adobe Photoshop/ Illustrator)
+- E-Commerce Platform
+<!--
+💼 **Currently working on:**
+- [Project 1]
+- [Project 2]
+
+🌱 **Learning:**
+- [Technology/Tool you're currently learning]
+
+🔗 **Connect with me:**
+- [LinkedIn profile]
+- [Twitter handle]
+- [Personal website/blog]
+-->
+📬 **Contact:**
+- Email: metablendorg.info@gmail.com
+<!--
+🤝 **Open to collaboration on projects related to:**
+- [Specific areas of interest or types of projects]
+
+📚 **Check out my repositories for projects related to:**
+- [Primary interest/project focus]
+-->
+Feel free to explore my repositories, and I'm always open to collaboration and feedback. Let's connect and build something amazing together! 🚀
+
+  
+</p>
 
 
 <h3 align="left" margin="40">Connect with me:</h3>
