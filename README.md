@@ -1,71 +1,78 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Bathiya!" alt="Typing SVG" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Muditha Bathiya</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      .fade-in-up {
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeInUp 1s ease-out forwards;
+      }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-%2300C7FF?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Designer-%23FF61A6?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/E--Commerce-%23FF9800?style=for-the-badge&logo=shopify&logoColor=white" />
-</p>
+      @keyframes fadeInUp {
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
 
----
+      .glow-text {
+        text-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff;
+      }
+    </style>
+  </head>
+  <body class="bg-gradient-to-br from-[#0f172a] to-[#1e293b] text-white font-sans">
 
-### 👇 Let's Check Below 👇
+    <section class="text-center py-10 fade-in-up">
+      <h1 class="text-4xl font-bold glow-text">👋 Hi, I'm Muditha Bathiya</h1>
+      <p class="text-xl mt-3 text-cyan-300">Creative Web Developer & Designer</p>
+    </section>
 
-#### 👋 Hello...
+    <section class="text-center px-5 max-w-3xl mx-auto fade-in-up">
+      <p class="text-gray-300 text-lg mb-6">
+        I’m a passionate web developer with a keen eye for design and a love for
+        building immersive, user-friendly websites. I bring together clean code and beautiful visuals to create
+        amazing digital experiences.
+      </p>
+    </section>
 
-> 🎯 I am **Bathiya**, a passionate web developer who loves building immersive and visually engaging websites.  
-> 💡 With a strong eye for design and a sharp sense of code, I blend creativity with functionality to create seamless user experiences.
+    <section class="fade-in-up px-5 py-10">
+      <h2 class="text-2xl text-cyan-400 font-semibold mb-4 text-center">🚀 Skills</h2>
+      <ul class="flex flex-wrap justify-center gap-4 text-white text-base">
+        <li class="bg-cyan-700 px-4 py-2 rounded-lg shadow hover:bg-cyan-600 transition">Web Development</li>
+        <li class="bg-pink-600 px-4 py-2 rounded-lg shadow hover:bg-pink-500 transition">Graphic Design</li>
+        <li class="bg-indigo-600 px-4 py-2 rounded-lg shadow hover:bg-indigo-500 transition">E-Commerce</li>
+      </ul>
+    </section>
 
----
+    <section class="fade-in-up px-5 py-10">
+      <h2 class="text-2xl text-cyan-400 font-semibold mb-4 text-center">🎨 Tools I Use</h2>
+      <div class="flex flex-wrap justify-center gap-6">
+        <img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva&theme=dark" />
+      </div>
+    </section>
 
-### 🚀 Skills
+    <section class="fade-in-up px-5 py-10">
+      <h2 class="text-2xl text-cyan-400 font-semibold mb-4 text-center">💻 Languages & Tools</h2>
+      <div class="flex flex-wrap justify-center gap-6">
+        <img src="https://skillicons.dev/icons?i=html,css,js,java,git,mysql,csharp,php,python,wordpress&theme=dark" />
+      </div>
+    </section>
 
-- 💻 Web Development  
-- 🎨 Graphic Design (Photoshop / Illustrator)  
-- 🛒 E-Commerce Platforms  
+    <section class="fade-in-up px-5 py-10">
+      <h2 class="text-2xl text-cyan-400 font-semibold mb-4 text-center">📬 Contact</h2>
+      <ul class="text-center text-white space-y-2">
+        <li>📧 <a href="mailto:metablendorg.info@gmail.com" class="text-cyan-300 hover:underline">metablendorg.info@gmail.com</a></li>
+        <li>🔗 <a href="https://www.linkedin.com/in/muditha-bathiya-liyanage" target="_blank" class="text-cyan-300 hover:underline">LinkedIn</a></li>
+        <li>📸 <a href="https://www.instagram.com/iambathiya/" target="_blank" class="text-cyan-300 hover:underline">Instagram</a></li>
+      </ul>
+    </section>
 
----
-
-### 📬 Contact Me
-
-- 📧 **Email**: `metablendorg.info@gmail.com`  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muditha-bathiya-liyanage)  
-- 👤 [Facebook](https://www.facebook.com/muditha.bathiya.1)  
-- 📸 [Instagram](https://www.instagram.com/iambathiya)
-
----
-
-### 🎨 Digital Content Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva&theme=light" />
-</p>
-
----
-
-### 💻 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,mysql,csharp,php,python,wordpress&theme=light" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha-bathiya&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muditha-bathiya&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha-bathiya&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-> 🌟 Feel free to explore my repositories.  
-> 🤝 I'm always open to collaboration and feedback.  
-> 🚀 Let’s connect and build something **amazing** together!
+    <footer class="text-center text-sm text-gray-400 py-5">
+      🚀 Let’s connect and build something amazing together!
+    </footer>
+  </body>
+</html>
