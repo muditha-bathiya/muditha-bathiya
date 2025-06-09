@@ -10,51 +10,46 @@
 
 ---
 
-### 👇 Let's Check Below 👇
+### 👋 Welcome!
 
-#### 👋 Hello...
-
----
-
-🎯 I am Bathiya, an IT professional with expertise across core areas of Information Technology including networking, hardware systems, and IT infrastructure management.
-💡 My technical foundation covers network configuration, system troubleshooting, hardware maintenance, and IT asset management. Alongside my infrastructure role, I’m also growing as a web developer, creating responsive and visually engaging websites that align with modern UI/UX standards. I strive to deliver complete IT solutions by integrating backend systems with user-facing applications.
+Hi, I'm **Bathiya** – a passionate IT professional and web developer dedicated to crafting seamless digital experiences and robust IT solutions.
 
 ---
 
+### 🧑‍💻 About Me
 
-
----
-
-### 🚀 Skills
-
-- 💻 Web Development  
-- 🎨 Graphic Design (Photoshop / Illustrator)  
-- 🛒 E-Commerce Platforms  
+- 🎯 **Versatile IT Specialist:** I bring expertise in core Information Technology domains, including networking, hardware systems, and IT infrastructure management.
+- 💡 **Technical Proficiency:** My skills span network configuration, system troubleshooting, hardware maintenance, and IT asset management.
+- 🌐 **Web Development Enthusiast:** On top of my infrastructure background, I design and build responsive, modern websites with a keen focus on UI/UX.
+- 🔄 **End-to-End Solutions:** I love integrating backend systems with user-facing applications to deliver complete IT and web solutions.
 
 ---
 
-### 📬 Contact Me
+### 🚀 Skills & Expertise
 
-- 📧 **Email**: `metablendorg.info@gmail.com`  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muditha-bathiya-liyanage)  
-- 👤 [Facebook](https://www.facebook.com/muditha.bathiya.1)  
-- 📸 [Instagram](https://www.instagram.com/iambathiya)
+- 💻 **Web Development:** HTML, CSS, JavaScript, PHP, Python, C#, Java, WordPress
+- 🎨 **Graphic Design:** Photoshop, Illustrator, Canva
+- 🛒 **E-Commerce Platforms:** Shopify, WooCommerce, and more
 
 ---
 
-### 🎨 Digital Content Tools
+### 🔧 Tools & Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,mysql,csharp,php,python,wordpress&theme=light" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva&theme=light" />
 </p>
 
 ---
 
-### 💻 Languages & Tools
+### 📬 Get In Touch
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,mysql,csharp,php,python,wordpress&theme=light" />
-</p>
+- 📧 **Email:** [metablendorg.info@gmail.com](mailto:metablendorg.info@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muditha-bathiya-liyanage)
+- 👤 [Facebook](https://www.facebook.com/muditha.bathiya.1)
+- 📸 [Instagram](https://www.instagram.com/iambathiya)
 
 ---
 
@@ -72,6 +67,6 @@
 
 ---
 
-> 🌟 Feel free to explore my repositories.  
-> 🤝 I'm always open to collaboration and feedback.  
-> 🚀 Let’s connect and build something **amazing** together!
+> 🌟 **Explore my repositories** for projects, code, and ideas.  
+> 🤝 **Open to collaboration** – let's create something impactful together!  
+> 🚀 **Let’s connect and build something amazing!**
