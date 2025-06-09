@@ -14,8 +14,16 @@
 
 #### 👋 Hello...
 
-> 🎯 I am **Bathiya**, a passionate web developer who loves building immersive and visually engaging websites.  
-> 💡 With a strong eye for design and a sharp sense of code, I blend creativity with functionality to create seamless user experiences.
+Perfect, Bathiya! Here's a refined and **technically professional paragraph** tailored to your focus in **networking, hardware, IT management**, and **web development**:
+
+---
+
+🎯 I am Bathiya, an IT professional with expertise across core areas of Information Technology including networking, hardware systems, and IT infrastructure management.
+💡 My technical foundation covers network configuration, system troubleshooting, hardware maintenance, and IT asset management. Alongside my infrastructure role, I’m also growing as a web developer, creating responsive and visually engaging websites that align with modern UI/UX standards. I strive to deliver complete IT solutions by integrating backend systems with user-facing applications.
+
+---
+
+
 
 ---
 
