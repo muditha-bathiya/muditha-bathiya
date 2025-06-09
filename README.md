@@ -14,8 +14,6 @@
 
 #### 👋 Hello...
 
-Perfect, Bathiya! Here's a refined and **technically professional paragraph** tailored to your focus in **networking, hardware, IT management**, and **web development**:
-
 ---
 
 🎯 I am Bathiya, an IT professional with expertise across core areas of Information Technology including networking, hardware systems, and IT infrastructure management.
