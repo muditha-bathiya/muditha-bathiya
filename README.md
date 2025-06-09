@@ -1,3 +1,12 @@
+<!-- Add background image to the README using HTML with absolute positioning.
+     GitHub markdown does not support CSS backgrounds directly, but you can use a fixed-position image for a similar effect. -->
+
+<div align="center" style="position: relative; width: 100%;">
+  <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1500&q=80"
+       alt="Background"
+       style="position: fixed; left: 0; top: 0; width: 100vw; height: 100vh; object-fit: cover; z-index: -1; opacity: 0.15; pointer-events: none;" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Bathiya!" alt="Typing SVG" />
 </p>
@@ -79,3 +88,9 @@ Hi, I'm <b>Bathiya</b> – a passionate IT professional and web developer dedica
   🤝 Open to collaboration – let's create something impactful together!<br>
   🚀 Let’s connect and build something amazing!</b>
 </p>
+
+<!--
+Tip: GitHub-flavored markdown does not officially support custom CSS or fixed-position backgrounds.
+The above HTML/CSS trick works in some GitHub markdown renderers (such as some browsers and VS Code preview).
+If it doesn't work on github.com, consider using a visually prominent banner or header image instead.
+-->
