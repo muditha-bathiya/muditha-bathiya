@@ -3,79 +3,86 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-%2300C7FF?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Designer-%23FF61A6?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/E--Commerce-%23FF9800?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Developer-%23007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Web Developer Badge"/>
+  <img src="https://img.shields.io/badge/IT%20Specialist-%23336699?style=for-the-badge&logo=windows&logoColor=white" alt="IT Specialist Badge"/>
+  <img src="https://img.shields.io/badge/Creative%20Design-%23FF61A6?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Creative Designer Badge"/>
+  <img src="https://img.shields.io/badge/E--Commerce-%23FF9800?style=for-the-badge&logo=shopify&logoColor=white" alt="E-Commerce Badge"/>
 </p>
 
----
+<br>
+<hr>
 
-<h3 align="center">👋 Welcome!</h3>
+<h2 align="center">👋 Welcome! I'm Bathiya.</h2>
 
 <p align="center">
-Hi, I'm <b>Bathiya</b> – a passionate IT professional and web developer dedicated to crafting seamless digital experiences and robust IT solutions.
+  A passionate <b>IT professional</b> and <b>full-stack web developer</b> dedicated to crafting seamless digital experiences and robust, end-to-end IT solutions.
 </p>
 
----
+<br>
+<hr>
 
 <details>
-  <summary><b>🧑‍💻 About Me</b></summary>
-  
-- 🎯 <b>Versatile IT Specialist:</b> I bring expertise in core Information Technology domains, including networking, hardware systems, and IT infrastructure management.
-- 💡 <b>Technical Proficiency:</b> My skills span network configuration, system troubleshooting, hardware maintenance, and IT asset management.
-- 🌐 <b>Web Development Enthusiast:</b> On top of my infrastructure background, I design and build responsive, modern websites with a keen focus on UI/UX.
-- 🔄 <b>End-to-End Solutions:</b> I love integrating backend systems with user-facing applications to deliver complete IT and web solutions.
+  <summary><b>💡 My Dual Focus: IT Infrastructure & Web Development</b></summary>
+  <br>
+
+- 🎯 <b>Versatile IT Specialist:</b> I bring expertise in core Information Technology domains, including **networking, hardware systems, and IT infrastructure management**.
+- ⚙️ <b>Infrastructure & Operations:</b> Skilled in network configuration, system troubleshooting, hardware maintenance, and IT asset management.
+- 🌐 <b>Web Development Enthusiast:</b> I design and build responsive, modern websites using technologies like **HTML, CSS, JavaScript, and PHP/Python** with a keen focus on UI/UX.
+- 🔄 <b>End-to-End Solutions:</b> I love integrating robust backend systems with intuitive user-facing applications to deliver complete IT and web solutions.
 </details>
 
----
+<br>
 
 <details>
   <summary><b>🚀 Skills & Expertise</b></summary>
+  <br>
 
-- 💻 <b>Web Development:</b> HTML, CSS, JavaScript, PHP, Python, C#, Java, WordPress
-- 🎨 <b>Graphic Design:</b> Photoshop, Illustrator, Canva
-- 🛒 <b>E-Commerce Platforms:</b> Shopify, WooCommerce, and more
+  | Category | Technologies |
+  | :--- | :--- |
+  | 💻 **Web & Backend** | HTML, CSS, JavaScript, PHP, Python, C#, Java, MySQL, Git |
+  | 🛒 **Platforms** | WordPress, Shopify, WooCommerce |
+  | 🎨 **Creative Design** | Photoshop, Illustrator, Canva |
+
 </details>
 
----
+<br>
+<hr>
 
-<h3 align="center">🔧 Tools & Technologies</h3>
-
+<h2 align="center">🔧 Tools & Technologies</h2>
 <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,mysql,csharp,php,python,wordpress&theme=light" alt="Dev Skills" />
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva&theme=light" alt="Design Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,csharp,java,mysql,wordpress,git,photoshop,illustrator,canva&theme=light" alt="Tools & Technologies Icons" />
 </p>
 
----
+<br>
+<hr>
 
-<h3 align="center">📬 Get In Touch</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="mailto:metablendorg.info@gmail.com"><b>Email</b></a> |
-  <a href="https://www.linkedin.com/in/muditha-bathiya-liyanage"><b>LinkedIn</b></a> |
-  <a href="https://www.facebook.com/muditha.bathiya.1"><b>Facebook</b></a> |
-  <a href="https://www.instagram.com/iambathiya"><b>Instagram</b></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha-bathiya&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muditha-bathiya&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha-bathiya&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
+<br>
+<hr>
 
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha-bathiya&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muditha-bathiya&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha-bathiya&theme=tokyonight" alt="GitHub Streak" />
-  </p>
-</details>
+<h2 align="center">📬 Get In Touch</h2>
 
----
+<p align="center">
+  <a href="mailto:metablendorg.info@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/muditha-bathiya-liyanage"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.facebook.com/muditha.bathiya.1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://www.instagram.com/iambathiya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+</p>
+
+<br>
+<hr>
 
 <p align="center">
   <b>🌟 Explore my repositories for projects, code, and ideas.<br>
   🤝 Open to collaboration – let's create something impactful together!<br>
-  🚀 Let’s connect and build something amazing!</b>
+  🚀 Always building and learning!</b>
 </p>
