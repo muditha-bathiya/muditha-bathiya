@@ -59,7 +59,7 @@
 <!-- 🌟 GitHub Profile Analytics -->
 <div align="center">
 
- <!-- GitHub Stats Section --> <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;"> <img src="https://github-readme-stats.vercel.app/api?username=muditha-bathiya&show_icons=true&theme=tokyonight&locale=en&hide_title=true&layout=compact" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha-bathiya&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" width="48%" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha-bathiya&theme=tokyonight" alt="GitHub Streak" /> </div>
+ GitHub Stats Section --> <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;"> <img src="https://github-readme-stats.vercel.app/api?username=muditha-bathiya&show_icons=true&theme=tokyonight&locale=en&hide_title=true&layout=compact" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha-bathiya&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" width="48%" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditha-bathiya&theme=tokyonight" alt="GitHub Streak" /> </div>
 
 ---
 
