@@ -67,11 +67,7 @@
       height="170"
     />
       
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditha-bathiya&layout=compact&theme=tokyonight&hide_title=true&hide_border=false"
-      alt="Top Languages"
-      height="170"
-    />
+   
   </div>
 
   <!-- Streak Card -->
