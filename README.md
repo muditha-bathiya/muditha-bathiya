@@ -1,2 +1,2 @@
 # im bathiya
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditha-bathiya)](https://github.com/muditha-bathiya/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=muditha-bathiya)](https://github.com/muditha-bathiya/github-readme-stats)
