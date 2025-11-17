@@ -48,7 +48,7 @@
 
 <h2 align="center" style="color: #336699;">🔧 Tools & Technologies</h2>
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,csharp,java,mysql,wordpress,git,photoshop,illustrator,canva&theme=light" alt="Tools & Technologies Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c#,java,mysql,wordpress,git,photoshop,illustrator,canva&theme=light" alt="Tools & Technologies Icons" />
 </div>
 
 ---
